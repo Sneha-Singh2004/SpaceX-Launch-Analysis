@@ -16,9 +16,9 @@ The goal is to combine data analysis, visualization, SQL querying, and machine l
 
 SpaceX-Launch-Analysis/
 │
-├── data/
-│ ├── spacex_launch_data.csv
-│ └── cleaned_spacex_data.csv
+├── data/  
+│ ├── spacex_launch_data.csv  
+│ └── cleaned_spacex_data.csv  
 │
 ├── notebooks/
 │ ├── 1_data_collection.ipynb
