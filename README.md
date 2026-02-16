@@ -14,7 +14,7 @@ The goal is to combine data analysis, visualization, SQL querying, and machine l
 ---
 
 Project Structure:
-
+'''
 SpaceX-Launch-Analysis/
 │
 ├── data/
@@ -35,7 +35,7 @@ SpaceX-Launch-Analysis/
 ├── spacex.db
 ├── requirements.txt
 └── README.md
-
+'''
 ---
 
 Features Implemented
